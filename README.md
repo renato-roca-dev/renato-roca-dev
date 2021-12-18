@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Renato Roca :wave:</h1>
 
-I'm a **system analysis and development**. My day to day revolves around learn and improve my skills in Front-End area.
+I'm a **system analysis and development** and **front-end developer** living in São Paulo, Brasil.
 
 ## Skills :muscle:
 
