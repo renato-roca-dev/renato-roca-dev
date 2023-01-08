@@ -4,7 +4,7 @@
 
 🏠 Moro em São Paulo, SP - Brasil. \
 📚 Atualmente estudando Análise e Desenvolvimento de Sistemas na [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/). \
-🚀 Apaixonado por astronomia e tecnologia.
+🚀 Apaixonado por astronomia e tecnologia. \
 💼 Atualmente trabalho na DoAnalytics, sendo Engenheiro de dados, RPA e Analytics.
 
 <br>
