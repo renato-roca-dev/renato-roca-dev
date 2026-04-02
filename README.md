@@ -3,9 +3,7 @@
 ## Sobre mim
 
 🏠 Moro em São Paulo, SP - Brasil. \
-📚 Formado em Análise e Desenvolvimento de Sistemas na [Cruzeiro do Sul Virtual](https://www.cruzeirodosulvirtual.com.br/). \
-🚀 Apaixonado por astronomia e tecnologia. \
-💼 Atualmente trabalho na DoAnalytics como Analista de dados.
+💼 Atualmente trabalho na Do Analytics como Analytics Engineer, com foco em Microsoft Fabric, Power BI e Databricks.
 
 <br>
 
